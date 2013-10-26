@@ -122,6 +122,22 @@
 					</div>
 					<div class="fix"></div><!-- fix -->
 			</section>
+
+			<section class="social">
+				<h1>Lets get social</h1>
+				<div class="contain">
+					<a href="#"><span class="social-icon twitter" title="Twitter"></span></a>
+					<a href="#"><span class="social-icon facebook" title="Facebook"></span></a>
+					<a href="#"><span class="social-icon youtube" title="Youtube"></span></a>
+					<a href="#"><span class="social-icon flickr" title="Flickr"></span></a>
+					<a href="#"><span class="social-icon pinterest" title="Pinterest"></span></a>
+					<a href="#"><span class="social-icon gplus" title="Google+"></span></a>
+				</div>
+			</section>
+
+			<section class="footer">
+				Copyright &copy; 2013 - Your Site &middot; Created by <a href="http://www.reecematthews.me"> Sysode </a>
+			</section>
 		</div>
 
 <!-- Javascript includes at bottom to increase page load time -->
